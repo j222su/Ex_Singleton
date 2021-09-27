@@ -1,4 +1,4 @@
-package com.js.example;
+package com.js.example_singletone;
 
 public class Main {
 
