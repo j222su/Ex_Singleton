@@ -8,3 +8,4 @@ example_singletone.iml
 .idea/encodings.xml
 .idea/project-template.xml
 .idea/uiDesigner.xml
+out/
